@@ -1,6 +1,6 @@
 #Simple Calculator Program 
 #Author:Shreyans dundur
-#canges:Vikash pandey
+#changes:Vikash pandey
 print("=" * 30)
 print("SIMPLE CALCULATOR")
 print("=" *30)
