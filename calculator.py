@@ -54,7 +54,7 @@ elif operation == '**':
 
 #elif operation == '//':
    # if num2 != 0:
-        result = num1 // num2
+     #   result = num1 // num2
        # print(f"\nResult: {num1} // {num2} = {result}")
    # else:
       #  print("\nError: Division by zero is not allowed!")
