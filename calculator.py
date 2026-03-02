@@ -52,14 +52,14 @@ elif operation == '**':
     result = num1 ** num2
     print(f"\nResult: {num1} ** {num2} = {result}")
 
-elif operation == '//':
-    if num2 != 0:
+#elif operation == '//':
+   # if num2 != 0:
         result = num1 // num2
-        print(f"\nResult: {num1} // {num2} = {result}")
-    else:
-        print("\nError: Division by zero is not allowed!")
+       # print(f"\nResult: {num1} // {num2} = {result}")
+   # else:
+      #  print("\nError: Division by zero is not allowed!")
 
-else:
-    print("\nError: Invalid operation entered!")
+#else:
+   # print("\nError: Invalid operation entered!")
 
-print("\nThank you for using the calculator!")
+#print("\nThank you for using the calculator!")
